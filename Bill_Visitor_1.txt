@@ -1,0 +1,8 @@
+===== ART GALLERY BILL =====
+Visitor ID     : 1
+Name           : Suhani
+Artwork        : h
+Original Price : Rs. 9000.00
+Discount       : Rs. 0.00
+Final Price    : Rs. 0.00
+=============================Visit Count    : 1

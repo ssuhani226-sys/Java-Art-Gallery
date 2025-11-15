@@ -1,0 +1,3 @@
+ID         Name            Gender     Contact         RegDate      TicketType   TicketCost   VisitCount
+----------------------------------------------------------------------------------------------------
+1          Aseem           Male       98467           1/Jan/1980   Standard     1000.00      1         
